@@ -26,3 +26,6 @@ To run the Java Calculator project on your local machine, follow these steps:
 4. Start performing your calculations with the Java Calculator!
 
 Happy calculating! If you have any questions, feedback, or encounter any issues with the Java Calculator project, please don't hesitate to reach out. Enjoy coding!
+- GitHub: Dattu762
+- Email: rahulnuvvula762@gmail.com
+  
